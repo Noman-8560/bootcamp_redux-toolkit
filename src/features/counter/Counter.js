@@ -36,6 +36,7 @@ export function Counter() {
           +
         </button>
       </div>
+      
       <div className={styles.row}>
         <input
           className={styles.textbox}
